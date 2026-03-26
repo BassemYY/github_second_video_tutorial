@@ -1,3 +1,2 @@
 #this is a print statement
-print("Bye World")
-print("Hello World")
+print("Bye friend")
